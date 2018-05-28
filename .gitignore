@@ -1,0 +1,8 @@
+node_modules
+server.log
+obj
+bin
+readme.md
+app.js
+node-web-server.njsproj
+package-lock.json
